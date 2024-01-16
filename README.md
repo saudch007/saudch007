@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Saud!
 
-<!--
-**saudch007/saudch007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate from FAST NUCES.
 
-Here are some ideas to get you started:
+💻 Full Stack Developer | 🌍 Lahore, Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ Reach out at saudchaudry1@gmail.com | 🔗 Follow me on [Dev.to](https://dev.to/saudch007)
+
+## 🌟 Experience
+
+- Backend Developer Intern at Glosix Systems, Lahore (Apr '21 – Jul '21).
+
+## 🎓 Education
+
+- BSE in Software Engineering at FAST.
+
+🚀 Let's connect and code something amazing!
